@@ -46,12 +46,14 @@ The following are the main code files for the proposed algorithms.
 
 ## Note
 You may cite us by   
-@ARTICLE{9839429,  
-author={Guo, Huayan and Lau, Vincent K. N.},  
-journal={IEEE Transactions on Signal Processing},   
-title={Uplink Cascaded Channel Estimation for Intelligent Reflecting Surface Assisted Multiuser {MISO} Systems},   
-year={Early Access, doi=10.1109/TSP.2022.3193626},  
-pages={1-14}  
-}
+@ARTICLE{9839429, 
+  author={Guo, Huayan and Lau, Vincent K. N.},  
+  journal={IEEE Trans. Signal Process.},  
+  title={Uplink Cascaded Channel Estimation for Intelligent Reflecting Surface Assisted Multiuser {MISO} Systems},  
+  year={2022}, 
+  volume={70}, 
+  number={}, 
+  pages={3964-3977}, 
+  doi={10.1109/TSP.2022.3193626}} 
 
 One previous version of this paper is named ``Cascaded Channel Estimation for Intelligent Reflecting Surface Assisted Multiuser MISO Systems'', which can be found in ArXiv as well (see <https://arxiv.org/abs/2108.09002>).
